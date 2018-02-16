@@ -63,14 +63,15 @@ tj.listen(function(msg) {
             // speak the result
             tj.speak(response.description);
 	    tj.wave();
+	    tj.shine("green");
             setTimeout(function (){
-	    	tj.shine("blue");
-            });
+               tj.shine("blue");
+            },8000);
         });
     } else {
 	tj.shine("red");
 	setTimeout(function (){
 		tj.shine("blue");
-	},6000);
+	},3000);
     }
 });
