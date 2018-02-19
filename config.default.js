@@ -11,6 +11,9 @@ exports.conversationWorkspaceId = ''; // replace with the workspace identifier o
 // Create the credentials object for export
 exports.credentials = {};
 
+// Bot name to be used
+exports.botName = "Watson";
+
 // Watson Conversation
 // https://www.ibm.com/watson/developercloud/conversation.html
 exports.credentials.conversation = {
