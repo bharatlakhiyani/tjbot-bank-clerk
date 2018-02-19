@@ -17,7 +17,10 @@ Next, go to the `BankExample` folder and install the dependencies.
     $ cd BankExample
     $ npm install
 
-Create instances of the [Watson Conversation](https://www.ibm.com/watson/developercloud/conversation.html) and [Watson Text to Speech](https://www.ibm.com/watson/developercloud/text-to-speech.html) services and note the authentication credentials.
+Create instances of the 
+- [Watson Speech to Text](https://www.ibm.com/watson/services/speech-to-text)
+- [Watson Conversation](https://www.ibm.com/watson/developercloud/conversation.html) and 
+- [Watson Text to Speech](https://www.ibm.com/watson/developercloud/text-to-speech.html) services and note the authentication credentials.
 
 Import the `workspace-sample.json` file into the Watson Conversation service and note the workspace ID.
 
