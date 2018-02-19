@@ -20,7 +20,8 @@ Next, go to the `BankExample` folder and install the dependencies.
 Create instances of the 
 - [Watson Speech to Text](https://www.ibm.com/watson/services/speech-to-text)
 - [Watson Conversation](https://www.ibm.com/watson/developercloud/conversation.html) and 
-- [Watson Text to Speech](https://www.ibm.com/watson/developercloud/text-to-speech.html) services and note the authentication credentials.
+- [Watson Text to Speech](https://www.ibm.com/watson/developercloud/text-to-speech.html) 
+services and note the authentication credentials.
 
 Import the `workspace-sample.json` file into the Watson Conversation service and note the workspace ID.
 
@@ -39,6 +40,7 @@ Run!
 # Watson Services
 - [Watson Conversation](https://www.ibm.com/watson/developercloud/conversation.html)
 - [Watson Text to Speech](https://www.ibm.com/watson/developercloud/text-to-speech.html)
+- [Watson Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
 
 # License
 This project is licensed under Apache 2.0. Full license text is available in [LICENSE](./LICENSE).
